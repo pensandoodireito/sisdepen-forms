@@ -1,4 +1,1 @@
 services:
-#    form:
-#        class: @FormBundle\Example
-#        arguments: [@service_id, "plain_value", %parameter%]
